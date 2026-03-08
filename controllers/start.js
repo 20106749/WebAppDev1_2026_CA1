@@ -8,7 +8,7 @@ const start = {
     logger.info("Start page loading!");
     
     const viewData = {
-      title: "CA1 Starter App",
+      title: "CA1 Web App - MLL",
       info: appStore.getAppInfo()
     };
     

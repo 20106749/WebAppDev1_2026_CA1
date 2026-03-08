@@ -1,10 +1,12 @@
-# Assignment 1 Starter Project
+# Assignment 1 Web App Project
 
-Use this starter project as the basis for Assignment One
+### Michael Louis Langan (20106749) 
 
-You should: 
+This web app project is my submission for Assignment One
 
-- Download this project from GitHub as a ZIP file
-- Complete the CA1 starter lab to set up your own GitHub repo for Assignment 1
-- Edit the files with your own content
+It includes: 
+
+- Home, dashboard, details & about pages
+- Custom CSS for presentation
+- Data displayed from a database
 

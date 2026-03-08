@@ -1,7 +1,7 @@
 {
-  "name": "ca1-app",
-  "version": "1.0.0",
-  "description": "CA1 starter app",
+  "name": "ca1-app-mll",
+  "version": "1.0.1",
+  "description": "CA1 web app",
   "type": "module",
   "main": "server.js",
   "scripts": {
